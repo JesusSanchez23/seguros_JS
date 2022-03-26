@@ -1,4 +1,3 @@
-### Info
 
 # Pequeña aplicación para cotizar seguros, desarrollada en:
 - CSS
